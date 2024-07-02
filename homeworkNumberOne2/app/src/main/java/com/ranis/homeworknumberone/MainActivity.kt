@@ -58,6 +58,9 @@ class MainActivity : AppCompatActivity() {
                 winners.add(winner)
                 println("Race between ${car1.brand} ${car1.model} and ${car2.brand} ${car2.model}, Winner: ${winner.brand} ${winner.model}")
             }
+            if(carsForRace.size == 1){
+                println("${carsForRace[0].brand} ${carsForRace[0].model} doesn't have a pair")
+            }
             for (winner in winners) {
                 carsForRace += winner
             }
