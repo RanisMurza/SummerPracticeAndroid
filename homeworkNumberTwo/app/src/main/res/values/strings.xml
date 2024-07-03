@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">homeworkNumberTwo</string>
+    <string name="main">Main</string>
+    <string name="contacts">Contacts</string>
+    <string name="profile">Profile</string>
+    <string name="receiving">Receiving</string>
+    <string name="sending">Sending</string>
+    <string name="settings">Settings</string>
+    <string name="please_enter_the_text">Please, enter the text</string>
+    <string name="real_madrid">Real Madrid</string>
+    <string name="spain">Spain</string>
+    <string name="football_clubs">Football Clubs</string>
+    <string name="id">ID_TAG</string>
+    <string name="info">Информация: </string>
+    <string name="league">Лига: </string>
+    <string name="capital">Страна: </string>
+</resources>
